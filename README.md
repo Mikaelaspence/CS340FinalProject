@@ -1,1 +1,12 @@
 # CS340FinalProject
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+To write programs that are maintainable, readable, and adaptable it is important to use best coding practices. Using industry standards makes your code easier to follow for others. Using good annotation is important as well for readability and adaptability. The CRUD python module was useful in creating our create, read, update and delete functions that allow us to alter the database through Mongo. Since Mongo is designed to work directly with python, this was a fairly straightforward task. Then, using the Jupyter application to import that python script and create a working dashboard was an easy step to connect. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+When approaching a problem, I like to think about what my goals are and what the project is looking for before I start to code. I make a layout, either in my head or on paper depending on the size of the project, and then go through the steps of coding following best practices. This project was a bit different from some of my other courses, as previous to this we had mostly done the coding, but not a user interface. The code kind of seemed to float out in space and the console was all you could see. Adding this next step with the user interface, seeing things from the user's side, was definitely different. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientist save companies a lot of time and money. Trying to sort through large databases like the one in this course would take an awful lot of manpower and effort. The amount of time, depending on the size of the database, could be prohibitive to getting anything done. Computer scientists use programs to simplify tasks and automate them using computing power. 
